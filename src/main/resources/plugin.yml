@@ -1,0 +1,6 @@
+name: LethalCompany
+version: '${project.version}'
+main: net.huans.lethalcompany.LethalCompany
+api-version: '1.20'
+load: STARTUP
+authors: [Wachenpaul, Benedikt]
